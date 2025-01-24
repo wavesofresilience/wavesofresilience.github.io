@@ -53,12 +53,12 @@
      border: 3px solid #ddd;
     }
     
-    .pdf {
+    .img {
         width: 100%;
         aspect-ratio: 4 / 3;
     }
 
-    .pdf,
+    .img,
     html,
     body {
         height: 100%;
