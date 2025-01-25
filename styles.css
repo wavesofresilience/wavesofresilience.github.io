@@ -1,7 +1,7 @@
 /* CSS Document */ 
 		body {
-			background-color: linen;font-family:"Verdana", sans-serif; border: 3px solid #ddd; padding: 20px;
-		 	margin-top: 20px; margin-bottom: 20px; margin-right: 50px; margin-left: 50px;}
+			background-color: linen;font-family:"Verdana", sans-serif; border: 3px solid #ddd; padding: 50px;
+		 	margin-top: 20px; margin-bottom: 20px; margin-right: 50px; margin-left: 50px; height: 100%;}
 		p  {font-size: 22px;font-family:"Verdana", sans-serif;}
 		h1 { font-size: 35px;color: #008CBA;text-align: center;font-weight: bold;}
 		h2 {font-size: 25px;color: #008CBA;text-align: center;font-weight: bold;}
@@ -53,15 +53,4 @@
      border: 3px solid #ddd;
     }
     
-    .img {
-        width: 100%;
-     }
-
-    .img,
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
+  
